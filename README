@@ -1,0 +1,9 @@
+First, please change to source directory. 
+To compile all codes, just run make all, also you can make clean.
+
+filterOP is the optimization code for the optimizaiton version part.
+filter.c is for the serial data first and serial filter first.
+filterSpeedUp.c is for the speedup
+filterScaleUp is for the scale up.
+
+The simulation result is ran on Matlab. Matlab code is attached in Other folder. Please paste in Matlab and see the simulation.  
